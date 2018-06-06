@@ -1,0 +1,11 @@
+div#video-player{
+  background-color: black;
+  margin: 20px 100px 0 100px;
+  border-style: 2px border black;
+  width:auto;
+  height:auto;
+}
+
+.btn{
+  margin-top:2em;
+}
